@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "//pamone74.github.io/AckNow/static/css/main.cae445aa.chunk.css",
-    "main.js": "//pamone74.github.io/AckNow/static/js/main.5801350b.chunk.js",
-    "main.js.map": "//pamone74.github.io/AckNow/static/js/main.5801350b.chunk.js.map",
-    "runtime-main.js": "//pamone74.github.io/AckNow/static/js/runtime-main.74d5fbf0.js",
-    "runtime-main.js.map": "//pamone74.github.io/AckNow/static/js/runtime-main.74d5fbf0.js.map",
-    "static/js/2.e3035ed9.chunk.js": "//pamone74.github.io/AckNow/static/js/2.e3035ed9.chunk.js",
-    "static/js/2.e3035ed9.chunk.js.map": "//pamone74.github.io/AckNow/static/js/2.e3035ed9.chunk.js.map",
-    "static/js/3.89ea2387.chunk.js": "//pamone74.github.io/AckNow/static/js/3.89ea2387.chunk.js",
-    "static/js/3.89ea2387.chunk.js.map": "//pamone74.github.io/AckNow/static/js/3.89ea2387.chunk.js.map",
-    "index.html": "//pamone74.github.io/AckNow/index.html",
-    "static/css/main.cae445aa.chunk.css.map": "//pamone74.github.io/AckNow/static/css/main.cae445aa.chunk.css.map",
-    "static/js/2.e3035ed9.chunk.js.LICENSE.txt": "//pamone74.github.io/AckNow/static/js/2.e3035ed9.chunk.js.LICENSE.txt"
+    "main.css": "/AckNow/static/css/main.cae445aa.chunk.css",
+    "main.js": "/AckNow/static/js/main.5801350b.chunk.js",
+    "main.js.map": "/AckNow/static/js/main.5801350b.chunk.js.map",
+    "runtime-main.js": "/AckNow/static/js/runtime-main.ce711581.js",
+    "runtime-main.js.map": "/AckNow/static/js/runtime-main.ce711581.js.map",
+    "static/js/2.e3035ed9.chunk.js": "/AckNow/static/js/2.e3035ed9.chunk.js",
+    "static/js/2.e3035ed9.chunk.js.map": "/AckNow/static/js/2.e3035ed9.chunk.js.map",
+    "static/js/3.89ea2387.chunk.js": "/AckNow/static/js/3.89ea2387.chunk.js",
+    "static/js/3.89ea2387.chunk.js.map": "/AckNow/static/js/3.89ea2387.chunk.js.map",
+    "index.html": "/AckNow/index.html",
+    "static/css/main.cae445aa.chunk.css.map": "/AckNow/static/css/main.cae445aa.chunk.css.map",
+    "static/js/2.e3035ed9.chunk.js.LICENSE.txt": "/AckNow/static/js/2.e3035ed9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.74d5fbf0.js",
+    "static/js/runtime-main.ce711581.js",
     "static/js/2.e3035ed9.chunk.js",
     "static/css/main.cae445aa.chunk.css",
     "static/js/main.5801350b.chunk.js"
